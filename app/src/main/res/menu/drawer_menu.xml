@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view"
+
+    >
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_bin_location"
+            android:icon="@drawable/ic_bin_location"
+            android:title="Bin Location" />
+        <item
+            android:id="@+id/nav_dispatch_plan"
+            android:icon="@drawable/ic_dispatch_plan"
+            android:title="Dispatch Plan" />
+        <item
+            android:id="@+id/nav_ledger"
+            android:icon="@drawable/ic_ledger"
+            android:title="Stock Ledger" />
+        <item
+            android:id="@+id/nav_master_data"
+            android:icon="@drawable/ic_master_data"
+            android:title="Master Data" />
+        <item
+            android:id="@+id/scanner"
+            android:icon="@drawable/ic_scanner"
+            android:title="Scanner" />
+
+    </group>
+    <item android:title="Settings">
+        <menu>
+            <item
+                android:id="@+id/setting"
+                android:icon="@drawable/ic_scanner"
+                android:title="Accounts" />
+            <item
+                android:id="@+id/app"
+                android:icon="@drawable/ic_app_settings"
+                android:title="App Settings" />
+
+        </menu>
+
+    </item>
+
+</menu>

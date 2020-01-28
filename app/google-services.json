@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "291236306806",
+    "firebase_url": "https://wmsxm-c36ca.firebaseio.com",
+    "project_id": "wmsxm-c36ca",
+    "storage_bucket": "wmsxm-c36ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291236306806:android:9dcf01c09508d3c44e6457",
+        "android_client_info": {
+          "package_name": "com.example.lapitchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291236306806-eagotcc26q9ojd1i347b2l091pjs17hd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lapitchat",
+            "certificate_hash": "710e0a70032de7063615f0f0c60052e228dd6dcb"
+          }
+        },
+        {
+          "client_id": "291236306806-f3kdal4hd3oaovn1bd126a6dm0vo5l0i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJIxlxV6poaCW5W3-jbLh1mN8W3rgf73U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291236306806-f3kdal4hd3oaovn1bd126a6dm0vo5l0i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291236306806:android:0584402d551499274e6457",
+        "android_client_info": {
+          "package_name": "com.example.lappitchat2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291236306806-hnriu0rb9i8icr867utvskbf7009u6nu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lappitchat2",
+            "certificate_hash": "710e0a70032de7063615f0f0c60052e228dd6dcb"
+          }
+        },
+        {
+          "client_id": "291236306806-f3kdal4hd3oaovn1bd126a6dm0vo5l0i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJIxlxV6poaCW5W3-jbLh1mN8W3rgf73U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291236306806-f3kdal4hd3oaovn1bd126a6dm0vo5l0i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291236306806:android:dabf8650da81c69f4e6457",
+        "android_client_info": {
+          "package_name": "com.example.wmsxm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291236306806-vhvcij1094pbhellj630o6t0rlrape1q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wmsxm",
+            "certificate_hash": "710e0a70032de7063615f0f0c60052e228dd6dcb"
+          }
+        },
+        {
+          "client_id": "291236306806-f3kdal4hd3oaovn1bd126a6dm0vo5l0i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJIxlxV6poaCW5W3-jbLh1mN8W3rgf73U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291236306806-f3kdal4hd3oaovn1bd126a6dm0vo5l0i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
